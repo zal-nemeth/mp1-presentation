@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "mp1-presentation"
+version = "0.1.0"
+description = ""
+authors = ["Zal <zalan.nemeth@outlook.com>"]
+readme = "README.md"
+packages = [
+    { include = "mp1-presentation" }
+]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+manim = "^0.19.0"
+isort = "^6.0.1"
+matplotlib = "^3.10.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
