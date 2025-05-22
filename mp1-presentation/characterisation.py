@@ -6,9 +6,11 @@ from scipy.signal import find_peaks, peak_widths
 
 # === 1. Load data ===
 # Transmission Spectrum without Circulators
-file_path = '/home/zal-nemeth/base/uni/cambridge/mres/mini-project-1/mp1-presentation/mp1-presentation/measurements/2025-05-01-11-09-39mpw2_no600_f1_0_t1_0_wgw_1.txt'
+# file_path = '/home/zal-nemeth/base/uni/cambridge/mres/mini-project-1/mp1-presentation/mp1-presentation/measurements/wavelength_sweep/2025-05-01-11-09-39mpw2_no600_f1_0_t1_0_wgw_1'
 # Pump Transmission Spectrum with Circulators
-# file_path = '/home/zal-nemeth/base/uni/cambridge/mres/mini-project-1/mp1-presentation/mp1-presentation/measurements/2025-05-16-18-43-58mpw2_no600_f1_0_t1_0_wgw_1'
+file_path = '/home/zal-nemeth/base/uni/cambridge/mres/mini-project-1/mp1-presentation/mp1-presentation/measurements/wavelength_sweep/2025-05-16-18-43-58mpw2_no600_f1_0_t1_0_wgw_1'
+file_path = "/home/zal-nemeth/base/uni/cambridge/mres/mini-project-1/mp1-presentation/mp1-presentation/measurements/wavelength_sweep/2025-05-20-18-34-22mpw2_no600_f1_0_t1_0_wgw_1"
+
 with open(file_path, 'r') as f:
     lam_line = f.readline().strip()   # λ in nm
     t_line   = f.readline().strip()   # T in dB
@@ -18,7 +20,7 @@ T = np.fromstring(t_line, sep=' ')
 
 # === 2. Find dips deeper than –42 dB ===
 invT = -T
-peaks, props = find_peaks(invT, height=39, prominence=3)
+peaks, props = find_peaks(invT, height=26, prominence=3)
 
 # === 3. Compute FWHM and Q for each dip ===
 # Use prominence-based height for width calculation
