@@ -1,0 +1,81 @@
+{
+  "slides": [
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "skip_animations": false,
+      "src": null,
+      "file": "slides/files/RingModulators/86176d23dc5fb081f27eba5d2ced055c435ebd59801900714da35455581cd52c.mp4",
+      "rev_file": "slides/files/RingModulators/86176d23dc5fb081f27eba5d2ced055c435ebd59801900714da35455581cd52c_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "skip_animations": false,
+      "src": null,
+      "file": "slides/files/RingModulators/2f8d2dd6df99a2f378087f1cb387dcf84eb0793c2ffdedab523fa0d344efdc78.mp4",
+      "rev_file": "slides/files/RingModulators/2f8d2dd6df99a2f378087f1cb387dcf84eb0793c2ffdedab523fa0d344efdc78_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "skip_animations": false,
+      "src": null,
+      "file": "slides/files/RingModulators/278225bcb87786e7391e73dde72f2ea63dc2ced4eb011759dd9d7e7b169cf4a5.mp4",
+      "rev_file": "slides/files/RingModulators/278225bcb87786e7391e73dde72f2ea63dc2ced4eb011759dd9d7e7b169cf4a5_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "skip_animations": false,
+      "src": null,
+      "file": "slides/files/RingModulators/881b52d6ed94694beff20300d303a8bebde075b55cf3db69326a369af9d5c384.mp4",
+      "rev_file": "slides/files/RingModulators/881b52d6ed94694beff20300d303a8bebde075b55cf3db69326a369af9d5c384_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "skip_animations": false,
+      "src": null,
+      "file": "slides/files/RingModulators/eca955728894d9c9fdf2a35494685c84546b10b1c906229fc97c8d1b8bb74605.mp4",
+      "rev_file": "slides/files/RingModulators/eca955728894d9c9fdf2a35494685c84546b10b1c906229fc97c8d1b8bb74605_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "skip_animations": false,
+      "src": null,
+      "file": "slides/files/RingModulators/c8af72609c63045d4bc5f3ebdfbfa3f0b42968e2803dd339e88a939dd51ada38.mp4",
+      "rev_file": "slides/files/RingModulators/c8af72609c63045d4bc5f3ebdfbfa3f0b42968e2803dd339e88a939dd51ada38_reversed.mp4"
+    }
+  ],
+  "resolution": [
+    1920,
+    1080
+  ],
+  "background_color": "white"
+}

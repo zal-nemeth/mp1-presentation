@@ -1,0 +1,81 @@
+{
+  "slides": [
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "skip_animations": false,
+      "src": null,
+      "file": "slides/files/MotivationSlide/aca809ea5994358317d6417dbc2f8317a75054b6d70db914913dcc149aac4f93.mp4",
+      "rev_file": "slides/files/MotivationSlide/aca809ea5994358317d6417dbc2f8317a75054b6d70db914913dcc149aac4f93_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "skip_animations": false,
+      "src": null,
+      "file": "slides/files/MotivationSlide/33c743d7888cea54db6ec21fad4d0cf7766a9c15f11d9b8d9932bdad9d80ae91.mp4",
+      "rev_file": "slides/files/MotivationSlide/33c743d7888cea54db6ec21fad4d0cf7766a9c15f11d9b8d9932bdad9d80ae91_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "skip_animations": false,
+      "src": null,
+      "file": "slides/files/MotivationSlide/28cff32291876b18a47b35e5651ac536470e67855738eab10df6d2cb05083ae6.mp4",
+      "rev_file": "slides/files/MotivationSlide/28cff32291876b18a47b35e5651ac536470e67855738eab10df6d2cb05083ae6_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "skip_animations": false,
+      "src": null,
+      "file": "slides/files/MotivationSlide/8ee1d34841e51e057c65a7fdc4c233f13a0233fa13b92ec4b4ed9b7aba09e98a.mp4",
+      "rev_file": "slides/files/MotivationSlide/8ee1d34841e51e057c65a7fdc4c233f13a0233fa13b92ec4b4ed9b7aba09e98a_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "skip_animations": false,
+      "src": null,
+      "file": "slides/files/MotivationSlide/7dff1b8d3b0bedd6626cf07e02407ecb5c2970cf81f0d3fcae760fb7c95d4be9.mp4",
+      "rev_file": "slides/files/MotivationSlide/7dff1b8d3b0bedd6626cf07e02407ecb5c2970cf81f0d3fcae760fb7c95d4be9_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "skip_animations": false,
+      "src": null,
+      "file": "slides/files/MotivationSlide/68477a46c743b9fd341bc71c095ed50edd6141bb05a5cec2182c12ff66d8a1f6.mp4",
+      "rev_file": "slides/files/MotivationSlide/68477a46c743b9fd341bc71c095ed50edd6141bb05a5cec2182c12ff66d8a1f6_reversed.mp4"
+    }
+  ],
+  "resolution": [
+    1920,
+    1080
+  ],
+  "background_color": "white"
+}

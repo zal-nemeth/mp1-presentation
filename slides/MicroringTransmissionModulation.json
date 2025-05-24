@@ -1,0 +1,57 @@
+{
+  "slides": [
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "skip_animations": false,
+      "src": null,
+      "file": "slides/files/MicroringTransmissionModulation/27a88e9d85440a19c59b818a6f201b3293a35ec69e8f102332e2e2b7c1cc2ff3.mp4",
+      "rev_file": "slides/files/MicroringTransmissionModulation/27a88e9d85440a19c59b818a6f201b3293a35ec69e8f102332e2e2b7c1cc2ff3_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "skip_animations": false,
+      "src": null,
+      "file": "slides/files/MicroringTransmissionModulation/a6f309efef8e16a6e90de002d3a3cb4a626042cf9eea6f63807b2297de21d354.mp4",
+      "rev_file": "slides/files/MicroringTransmissionModulation/a6f309efef8e16a6e90de002d3a3cb4a626042cf9eea6f63807b2297de21d354_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "skip_animations": false,
+      "src": null,
+      "file": "slides/files/MicroringTransmissionModulation/9e28b1156687d187774c79679271b762553b0a80bc146457edc60945ba8611d6.mp4",
+      "rev_file": "slides/files/MicroringTransmissionModulation/9e28b1156687d187774c79679271b762553b0a80bc146457edc60945ba8611d6_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "skip_animations": false,
+      "src": null,
+      "file": "slides/files/MicroringTransmissionModulation/3e2ce5610df3ef0828916409275fa76229972fd0d2953ff5b5b5c51017c0f6c6.mp4",
+      "rev_file": "slides/files/MicroringTransmissionModulation/3e2ce5610df3ef0828916409275fa76229972fd0d2953ff5b5b5c51017c0f6c6_reversed.mp4"
+    }
+  ],
+  "resolution": [
+    1920,
+    1080
+  ],
+  "background_color": "white"
+}

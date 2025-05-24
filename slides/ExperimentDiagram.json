@@ -1,0 +1,69 @@
+{
+  "slides": [
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "skip_animations": false,
+      "src": null,
+      "file": "slides/files/ExperimentDiagram/8e323174a83163d41c45c3dd999c9af22f2e2c7a7614243e4dcccfd073e32f38.mp4",
+      "rev_file": "slides/files/ExperimentDiagram/8e323174a83163d41c45c3dd999c9af22f2e2c7a7614243e4dcccfd073e32f38_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "skip_animations": false,
+      "src": null,
+      "file": "slides/files/ExperimentDiagram/8e55b2a42be29942e1135d2b911a15ad8fc8743d656929731f02c10d44c7b872.mp4",
+      "rev_file": "slides/files/ExperimentDiagram/8e55b2a42be29942e1135d2b911a15ad8fc8743d656929731f02c10d44c7b872_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "skip_animations": false,
+      "src": null,
+      "file": "slides/files/ExperimentDiagram/cea3877b2a40f78dd9fe73b941ae1cdc35069ff4d90d52853490746cb5208a5d.mp4",
+      "rev_file": "slides/files/ExperimentDiagram/cea3877b2a40f78dd9fe73b941ae1cdc35069ff4d90d52853490746cb5208a5d_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "skip_animations": false,
+      "src": null,
+      "file": "slides/files/ExperimentDiagram/ae70d9fbde3ffe8742bd72d5e2ea0470a1cead9caa935599462a9409baeabb15.mp4",
+      "rev_file": "slides/files/ExperimentDiagram/ae70d9fbde3ffe8742bd72d5e2ea0470a1cead9caa935599462a9409baeabb15_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "skip_animations": false,
+      "src": null,
+      "file": "slides/files/ExperimentDiagram/ce44888c2738cb486ad8e865213143d295f48ae3e1ae8d4c2b7540838b21a823.mp4",
+      "rev_file": "slides/files/ExperimentDiagram/ce44888c2738cb486ad8e865213143d295f48ae3e1ae8d4c2b7540838b21a823_reversed.mp4"
+    }
+  ],
+  "resolution": [
+    1920,
+    1080
+  ],
+  "background_color": "white"
+}

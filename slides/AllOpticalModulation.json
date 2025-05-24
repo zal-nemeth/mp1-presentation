@@ -1,0 +1,69 @@
+{
+  "slides": [
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "skip_animations": false,
+      "src": null,
+      "file": "slides/files/AllOpticalModulation/5cab90b43e6ae05e61eeb8890c8009f5fbae89a7de2f5c403badd81373dbb878.mp4",
+      "rev_file": "slides/files/AllOpticalModulation/5cab90b43e6ae05e61eeb8890c8009f5fbae89a7de2f5c403badd81373dbb878_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "skip_animations": false,
+      "src": null,
+      "file": "slides/files/AllOpticalModulation/6aad19782f22f5c2a0657f2a621506c314f2f3b4dbc270b0132305369b328aab.mp4",
+      "rev_file": "slides/files/AllOpticalModulation/6aad19782f22f5c2a0657f2a621506c314f2f3b4dbc270b0132305369b328aab_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "skip_animations": false,
+      "src": null,
+      "file": "slides/files/AllOpticalModulation/f656c9f899ba2266a2a6322792dea3d64ed0a7df303a3c2c1bc0102a168b40a3.mp4",
+      "rev_file": "slides/files/AllOpticalModulation/f656c9f899ba2266a2a6322792dea3d64ed0a7df303a3c2c1bc0102a168b40a3_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "skip_animations": false,
+      "src": null,
+      "file": "slides/files/AllOpticalModulation/88845121bb0c760d9b6b1560f47fe7e24284f77a43b5f7ae3547ee17ea80ddaf.mp4",
+      "rev_file": "slides/files/AllOpticalModulation/88845121bb0c760d9b6b1560f47fe7e24284f77a43b5f7ae3547ee17ea80ddaf_reversed.mp4"
+    },
+    {
+      "loop": true,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "skip_animations": false,
+      "src": null,
+      "file": "slides/files/AllOpticalModulation/22db776d3e3ea3005bad07787155a2987a06d11931e3f63c8c8a65b4b05912bb.mp4",
+      "rev_file": "slides/files/AllOpticalModulation/22db776d3e3ea3005bad07787155a2987a06d11931e3f63c8c8a65b4b05912bb_reversed.mp4"
+    }
+  ],
+  "resolution": [
+    1920,
+    1080
+  ],
+  "background_color": "white"
+}
