@@ -1451,7 +1451,7 @@ class FrequencyModulationResponse(Slide):
 
         # Read data from CSV
         xs, ys = [], []
-        with open('/home/zal-nemeth/base/uni/cambridge/mres/mini-project-1/mp1-presentation/flatter_curve_coordinates.csv', 'r') as f:
+        with open('/home/zal-nemeth/base/uni/cambridge/mres/mini-project-1/mp1-presentation/mp1-presentation/power_response_graphs/flatter_curve_coordinates.csv', 'r') as f:
             reader = csv.DictReader(f)
             for row in reader:
                 xs.append(float(row['x']))

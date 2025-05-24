@@ -39,7 +39,7 @@ plt.grid(True, alpha=0.3)
 plt.legend(fontsize=10)
 
 # Save the plot
-plt.savefig('sweeping_curve_plot.png', dpi=300, bbox_inches='tight')
+plt.savefig('mp1-presentation/power_response_graphs/sweeping_curve_plot.png', dpi=300, bbox_inches='tight')
 plt.show()
 
 # Create a DataFrame for the smoothed data
@@ -49,7 +49,7 @@ smoothed_df = pd.DataFrame({
 })
 
 # Save the smoothed coordinates to a CSV file
-smoothed_df.to_csv('flatter_curve_coordinates.csv', index=False)
+smoothed_df.to_csv('mp1-presentation/power_response_graphs/flatter_curve_coordinates.csv', index=False)
 
 plt.figure(figsize=(10, 6))
 
@@ -65,7 +65,7 @@ plt.grid(True, alpha=0.3)
 plt.legend(fontsize=10)
 
 # Save the plot
-plt.savefig('flatter_curve_plot.png', dpi=300, bbox_inches='tight')
+plt.savefig('mp1-presentation/power_response_graphs/flatter_curve_plot.png', dpi=300, bbox_inches='tight')
 plt.show()
 
 print("Plot saved as 'flatter_curve_plot.png'")
@@ -86,13 +86,13 @@ plt.ylabel('Y', fontsize=12)
 plt.title('Alternative Curve with Akima Interpolation', fontsize=14)
 plt.grid(True, alpha=0.3)
 plt.legend(fontsize=10)
-plt.savefig('akima_curve_plot.png', dpi=300, bbox_inches='tight')
+plt.savefig('mp1-presentation/power_response_graphs/akima_curve_plot.png', dpi=300, bbox_inches='tight')
 
 # Save the alternative coordinates
 akima_df = pd.DataFrame({
     'x': x_smooth,
     'y': y_akima
 })
-akima_df.to_csv('akima_curve_coordinates.csv', index=False)
+akima_df.to_csv('mp1-presentation/power_response_graphs/akima_curve_coordinates.csv', index=False)
 print("Akima plot saved as 'akima_curve_plot.png'")
 print("Akima curve coordinates saved as 'akima_curve_coordinates.csv'")
