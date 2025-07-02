@@ -8,6 +8,10 @@ from manim_slides import Slide
 from tqdm import tqdm
 from scipy.signal import find_peaks
 
+local_path = "figures/"
+local_path_csv = "csvs/"
+shared_path = "/media/zal-nemeth/Shared/vaults/Cambridge PES/Files/"
+
 
 config.background_color = WHITE
 
@@ -869,6 +873,7 @@ class MicroringTransmissionModulation(Slide):
 
         # Add the tracking dot and value label
         self.play(Write(dot), Write(threshold_line), Write(T_label), Write(value_label))
+        # self.play(Write(dot), Write(threshold_line), Write(T_label), Write(value_label))
         self.next_slide()
 
         # First animation: Move the resonance peak to the right until it aligns with the tracking point
@@ -913,12 +918,13 @@ class MicroringTransmissionModulation(Slide):
         self.play(
             center_tracker.animate.set_value(tracking_x), run_time=3, rate_func=smooth
         )
+        self.wait(0.5)
 
         # Fourth animation: Move the resonance peak back to its original position
         self.play(
             center_tracker.animate.set_value(center_start), run_time=3, rate_func=smooth
         )
-
+        self.wait(0.5)
         # self.wait(2)
 # 6.
 # Detail the three types of modulation methods
@@ -1401,6 +1407,51 @@ class AllOpticalModulation(Slide):
         
         self.play(dashed_pump.animate.set_stroke(width=4),
                   label_object.animate.shift([0.1,0,0]), run_time=3)
+# 
+class AllOpticalExperiment(Slide):
+    def construct(self):
+        # Make background white
+        self.camera.background_color = WHITE
+        title = MathTex(r"\text{Experiment Setup}", color=BLACK, font_size=50).move_to([-3.5,3.5,0])
+        self.add(title)
+        self.wait()
+        self.next_slide()
+        resolution = 2160
+        
+                # Load a PNG or JPG
+        img1 = ImageMobject("/home/zal-nemeth/base/uni/cambridge/mres/mini-project-1/mp1-presentation/images/all_optical_mod_experiment.png",
+                           scale_to_resolution=resolution)
+        img1.set(width=12)        # scale it
+        # img.to_edge(UL)         # position it
+        
+        img2 = ImageMobject("/home/zal-nemeth/base/uni/cambridge/mres/mini-project-1/mp1-presentation/images/all_optical_modulation.png",
+                           scale_to_resolution=resolution)
+        img2.set(width=13)
+        
+        img3 = ImageMobject("/home/zal-nemeth/base/uni/cambridge/mres/mini-project-1/mp1-presentation/images/all_optical_modulation_off_res.png",
+                           scale_to_resolution=resolution)
+        img3.set(width=13)
+        #.shift([0.18,0,0])
+        
+        edge_coupling_img = ImageMobject("/home/zal-nemeth/base/uni/cambridge/mres/mini-project-1/mp1-presentation/images/edge_coupling.png",
+                            scale_to_resolution=resolution)
+        edge_coupling_img.set(width=9)
+
+        #.shift([0, 0.16, 0])
+        self.play(FadeIn(img1))
+        self.wait(1)
+        self.next_slide()
+        self.play(FadeOut(img1))
+        self.play(FadeIn(img2))
+        self.wait(1)
+        self.next_slide()
+        self.play(FadeOut(img2))
+        self.play(FadeIn(img3))
+        self.wait(1)
+        self.next_slide()
+        self.play(FadeOut(img3))
+        self.play(FadeIn(edge_coupling_img))
+        self.wait(1)
 # 9.
 class ExperimentDiagram(Slide):
     def construct(self):
