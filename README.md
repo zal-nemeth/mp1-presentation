@@ -24,7 +24,7 @@ You can also run poetry shell which opens a poetry environment within the termin
 
 **HTML Conversion**
 
-`manim-slides convert <Slide Name> <File Name>.html --open
+`manim-slides convert <Slide Name> <File Name>.html --open`
 
 **Convert to PDF**
 
